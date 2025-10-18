@@ -11,7 +11,8 @@ You can see that there is a  "⌫" button, you can use this button to remove the
 The "▶" button plays what you have written using Morse Code.
 The "■" button stops playback.
 
-NOTE: This app is still in the debugging process, and the full release is not out yet. It will not be available on the app store but will be distributed as an APK.
+NOTE: This app is still in the debugging process, and the full release is not out yet. It will not be available on the app store but will be an APK.
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4d4004a6-dcc1-464f-8c78-b485f6fc2bef" style="border-radius: 36px;"/>
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4945e932-eb05-4e49-8f66-ad6ad9e84180" />
 
