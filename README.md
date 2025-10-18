@@ -12,8 +12,8 @@ The "▶" button plays what you have written using Morse Code.
 The "■" button stops playback.
 
 NOTE: This app is still in the debugging process, and the full release is not out yet. It will not be available on the app store but will be distributed as an APK.
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d4004a6-dcc1-464f-8c78-b485f6fc2bef" />
-<img width="837" height="850" alt="image" src="https://github.com/user-attachments/assets/4945e932-eb05-4e49-8f66-ad6ad9e84180" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4d4004a6-dcc1-464f-8c78-b485f6fc2bef" style="border-radius: 36px;"/>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4945e932-eb05-4e49-8f66-ad6ad9e84180" />
 
 Virustotal scan:
 <a href="https://www.virustotal.com/gui/file/e1c395c06e888ed400e1278b9268d6b5ca911d80d6661e5201c77caf6014a007?nocache=1"> virustotal scan </a>
