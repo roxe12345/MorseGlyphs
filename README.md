@@ -16,7 +16,5 @@ The "■" button stops playback.
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4945e932-eb05-4e49-8f66-ad6ad9e84180" />
 
 Virustotal scan:
-<a href="https://www.virustotal.com/gui/file/e1c395c06e888ed400e1278b9268d6b5ca911d80d6661e5201c77caf6014a007?nocache=1"> virustotal scan </a>
+<a href="https://www.virustotal.com/gui/file/01009b9af0d5d972cf2c6b7b6a063adbb44ade34f5cc19b11946f8e97f6d279b?nocache=1"> virustotal scan </a>
 
-Koodus scan:
-<img width="1920" height="780" alt="image" src="https://github.com/user-attachments/assets/d388458a-15b8-4c8b-ae7e-d3f431953381" />
