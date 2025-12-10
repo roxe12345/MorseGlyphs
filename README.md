@@ -17,4 +17,5 @@ The "■" button stops playback.
 
 Virustotal scan:
 <a href="https://www.virustotal.com/gui/file/01009b9af0d5d972cf2c6b7b6a063adbb44ade34f5cc19b11946f8e97f6d279b?nocache=1"> virustotal scan </a>
-
+Koodous scan:
+<a href="https://koodous.com/apks/01009b9af0d5d972cf2c6b7b6a063adbb44ade34f5cc19b11946f8e97f6d279b/general-information"> koodous scan </a>
