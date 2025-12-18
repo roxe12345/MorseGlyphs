@@ -269,7 +269,7 @@ fun MainApp() {
     val supportedModels = listOf("059", "059P", "142", "142P", "065", "063")
     val isSupported = supportedModels.any { Build.MODEL.contains(it) }
 
-    /*if (!isSupported)    {
+    if (!isSupported)    {
         isHome = false
         isInfo = false
         Column(Modifier.fillMaxSize(), horizontalAlignment =  Alignment.CenterHorizontally) {
@@ -312,7 +312,7 @@ fun MainApp() {
                 color = Color.White
             )
         }
-    }*/
+    }
     var textUnicode by remember { mutableStateOf("") }
     if (isHome == true) {
         Box(Modifier.fillMaxSize()) {
